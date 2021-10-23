@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/Jnw0Jb1/hanbei-1.jpg" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Sykes-Bot" src="https://img.shields.io/badge/Sykes Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Herman-Botz" src="https://img.shields.io/badge/Sykes Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HannSykes"><img title="Author" src="https://img.shields.io/badge/Author-HannSykes-red.svg?style=for-the-badge&logo=github"></a>
@@ -46,10 +46,10 @@
 <i>Kalian bisa ubah dengan ketik mc di termux</i>
 ```json
 {
-    "Name": "HannSykes",
-    "NumOwner": "62812xxxxxxx",
-    "NameBot" : "SYKES BOT",
-    "SykesWM" : "S Y K E S - B O T",  
+    "Name": "Hermansyah",
+    "NumOwner": "62831xxxxxxx",
+    "NameBot" : "Herman BOT",
+    "SykesWM" : "H E R M A N - B O T",  
     "HannSykesAPI" : "Masukin_Apikey",
     "hansykes" : "/"
 }
@@ -63,12 +63,3 @@
 
 
 
-## Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`mrfzvx12`](https://github.com/mrfzvx12)
-* [`Nazwas`](https://github.com/NazwaS)
-* [`dcode-denpa`](https://github.com/dcode-denpa)
-* [`LoL-Human`](https://github.com/LoL-Human)
-* [`Fxc7`](https://github.com/Fxc7)
-* [`shinza1947`](https://github.com/shinza1947)
